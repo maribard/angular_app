@@ -1,0 +1,21 @@
+{
+	"string1": "long_string_long_string_long_string_long_string_long_string_long_string_long_string_long_string_long_string_long_string_long_string_long_string_long_string_long_string_",
+	"string2": "long_string_2_long_string_2_long_string_2_long_string_2_long_string_2_long_string_2_long_string_2_long_string_2_long_string_2_long_string_2_long_string_2_long_string_2_",
+	
+	"formName": "Dr Watson",
+	"formAlterEgo": "Sherlock Holmes",
+
+	"formNameWithSpaces": "   Dr   Watson   ",
+	"formAlterEgoWithSpaces": "   Sherlock   Holmes   ",
+
+	"specificSymbols": "~!@#$%^&*()_+",
+	
+	"stepperName": "Mary",
+	"stepperAddress": "221B Baker Street, London",
+
+	"stepperNameWithSpaces": "   Mary   ",
+	"stepperAddressWithSpaces": "   2   Baker Street, London   ",
+
+	"stepperNameLongOne": "Mary56789112345678920",
+	"stepperAddressLongOne": "221B Baker Street, LondonLondon"
+}
